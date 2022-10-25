@@ -10,6 +10,11 @@ heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---
 
+Workforce Optimization Analysis
+Return-to-Work Planning
+Organizational Restructuring Roadmap
+Workforce of the Future Strategic Plan
+
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
