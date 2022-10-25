@@ -1,9 +1,13 @@
 ---
-title: 'No Limits'
+title: 'Our goal is to provide custom HR solutions that fit your organization’s scale, scope, and complexity.'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
 background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
 align: right
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+We work directly with you and your team, offering proven HR strategies to enhance the success and culture of your business.
+
+* Powerful Partnerships
+* Flexible Delivery & Pricing
+* New Tools & Technology

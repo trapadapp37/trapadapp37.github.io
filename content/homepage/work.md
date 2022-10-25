@@ -1,9 +1,11 @@
 ---
-title: 'We Help Business Grow'
+title: "We're more than just HR"
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
-buttonLink: 'work'
+button: 'Who We Are'
+buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+FuelHR aligns and accelerates the lifeblood of organizations -its workforce.
+
+People are an investment and we enhance their return with key tools, data-driven analysis, and best-fit strategies. We provide the essential support organizations need to take on today's challenges and face the evolving demands of the future.
