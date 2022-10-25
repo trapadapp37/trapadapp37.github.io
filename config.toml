@@ -14,11 +14,11 @@ theme = "hugo-hero-theme"
 
   [params.logo]
     mobile = "images/cropped-FUEL-HR-Dark-200x56.png"
-    mobile_height = "36px"
-    mobile_width = "36px"
+    mobile_height = "56px"
+    mobile_width = "200px"
     desktop = "images/cropped-FUEL-HR-Dark-200x56.png"
-    desktop_height = "29px"
-    desktop_width = "217px"
+    desktop_height = "56px"
+    desktop_width = "200px"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
