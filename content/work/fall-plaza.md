@@ -6,6 +6,7 @@ slug: fall-plaza
 heroSubHeading: Revitalising a public space in Spain.
 thumbnail: /public/work1-thumbnail.jpg
 heroBackground: /public/work1.jpg
+weight: 1
 ---
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
