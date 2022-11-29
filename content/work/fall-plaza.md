@@ -2,6 +2,7 @@
 title: 'Fall Plaza'
 date: 2018-11-18T12:33:46+10:00
 draft: false
+slug: 'fall-plaza'
 weight: 1
 heroHeading: 'Fall Plaza'
 heroSubHeading: 'Revitalising a public space in Spain.'
