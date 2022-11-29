@@ -45,23 +45,29 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
-    folder: 'content/pages'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Heading', name: 'heroHeading', widget: 'string' }
-      - { label: 'Slug', name: 'slug', widget: 'string' }
-      - { label: 'Sub Heading', name: 'heroSubHeading', widget: 'string', required: false }
-      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', required: false }
-      - { label: 'Hero Background', name: 'heroBackground', widget: 'image', required: false }
-      - { label: 'Images', name: 'images', widget: 'string', required: false }
-      - { label: 'Weight', name: 'weight', widget: 'number' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
-      - { label: 'Featured', name: 'featured', widget: 'boolean', default: false }
-      - { label: 'Button Link', name: 'buttonLink', widget: 'string' }
-      - { label: 'Alignment', name: 'align', widget: 'select', options: ["left", "center", "right"], default: false, required: false }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "site/content/about.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
+      - label: "Locations Page"
+        name: "locations"
+        file: "site/content/locations.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - label: Locations
+            name: locations
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Address, name: address, widget: string}
