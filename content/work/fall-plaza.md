@@ -8,8 +8,6 @@ slug: fall-plaza
 heroSubHeading: Revitalising a public space in Spain.
 thumbnail: /public/work1-thumbnail.jpg
 heroBackground: /public/work1.jpg
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
