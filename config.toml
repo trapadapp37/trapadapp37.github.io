@@ -8,6 +8,8 @@ theme = "hugo-hero-theme"
   [module.hugoVersion]
     extended = true
     min = "0.92.0"
+  [[module.imports]]
+    path = 'github.com/zerostaticthemes/hugo-hero-theme'
     
 [params]
   google_analytics_id=""
