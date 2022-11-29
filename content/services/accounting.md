@@ -1,13 +1,13 @@
 ---
-title: 'COVID Recovery Solutions'
+title: COVID Recovery Solutions
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
+icon: services/service-icon-1.png
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
-heroBackground: 'services/service1.jpg'
+heroHeading: Accounting
+heroSubHeading: We offer general accouting on hourly rate or fixed fee
+heroBackground: services/service1.jpg
 ---
 
 Workforce Optimization Analysis

@@ -23,3 +23,23 @@ collections:
       - { label: 'Weight', name: 'weight', widget: 'number' }
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'services'
+    label: 'Services'
+    folder: 'content/services'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Heading', name: 'heroHeading', widget: 'string' }
+      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Sub Heading', name: 'heroSubHeading', widget: 'string', required: false }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', required: false }
+      - { label: 'Hero Background', name: 'heroBackground', widget: 'image', required: false }
+      - { label: 'Images', name: 'images', widget: 'string', required: false }
+      - { label: 'Weight', name: 'weight', widget: 'number' }
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
+      - { label: 'Featured', name: 'featured', widget: 'boolean', default: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
