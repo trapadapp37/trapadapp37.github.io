@@ -2,6 +2,7 @@
 title: 'Cargo Terminal'
 date: 2018-11-18T12:33:46+10:00
 draft: false
+slug: 'cargo-terminal'
 weight: 3
 heroHeading: 'Cargo Terminal'
 heroSubHeading: 'Dockyard construction planning and review.'
