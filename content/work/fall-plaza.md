@@ -4,8 +4,8 @@ date: 2022-11-29T03:05:34.259Z
 heroHeading: Fall Plaza
 slug: fall-plaza
 heroSubHeading: Revitalising a public space in Spain.
-thumbnail: /public/work1-thumbnail.jpg
-heroBackground: /public/work1.jpg
+thumbnail: static/images/work1-thumbnail.jpg
+heroBackground: static/images/work1.jpg
 images: ""
 weight: 1
 draft: false
