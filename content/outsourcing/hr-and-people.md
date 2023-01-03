@@ -1,19 +1,18 @@
 ---
-title: COVID Recovery Solutions
+title: HR & People
 date: 2018-11-18T12:33:46+10:00
 icon: services/service-icon-1.png
 draft: false
 featured: true
 weight: 1
-heroHeading: Accounting
+heroHeading: HR & People
 heroSubHeading: We offer general accouting on hourly rate or fixed fee
 heroBackground: services/service1.jpg
 ---
 
-Workforce Optimization Analysis
-Return-to-Work Planning
-Organizational Restructuring Roadmap
-Workforce of the Future Strategic Plan
+- Workforce Optimization Analysis
+- Organizational Restructuring Roadmap
+- Workforce of the Future Strategic Plan
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae

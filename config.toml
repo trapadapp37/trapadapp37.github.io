@@ -14,6 +14,9 @@ theme = "hugo-hero-theme"
 [params]
   google_analytics_id=""
 
+  [markup.goldmark.renderer]
+    unsafe=true
+
   [params.logo]
     mobile = "images/cropped-FUEL-HR-Dark-200x56.png"
     mobile_height = "56px"
@@ -35,30 +38,31 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Outsourcing"
+	url = "/outsourcing/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
+    name = "Recruiting"
+    url = "/recruiting/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Coaching"
+    url = "/coaching/"
     weight = 3
 
 [[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
+    name = "Submit Resume"
+    url = "/submit-resume/"
+    weight = 4
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
