@@ -39,17 +39,17 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
 	name = "Outsourcing"
-	url = "/outsourcing/"
+	url = "#home"
     weight = 1
 
 [[menu.main]]
     name = "Recruiting"
-    url = "/recruiting/"
+    url = "#home2"
     weight = 2
 
 [[menu.main]]
     name = "Coaching"
-    url = "/coaching/"
+    url = "#home3"
     weight = 3
 
 [[menu.main]]
