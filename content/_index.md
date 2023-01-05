@@ -8,4 +8,3 @@ heroBackground: images/jason-blackeye-1191801-unsplash.jpg
 weight: 1
 draft: false
 ---
-d﻿

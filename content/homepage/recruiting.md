@@ -1,10 +1,9 @@
 ---
 title: 'Recruiting'
-date: 2018-02-10T11:52:18+07:00
-heroHeading: 'Recruiting'
-heroSubHeading: 'Our portfolio and previous projects'
-heroBackground: ''
+background: ''
+weight: 2
 ---
+
 A business is only as good as its employees. If you are looking to improve the quality of your team and build a respected reputation, you have come to the right place. FuelHR recruits qualified employees who will get the job done right and work with you to achieve company goals.
 
 {{<table "table table-striped table-bordered">}}

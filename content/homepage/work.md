@@ -1,6 +1,7 @@
 ---
 title: "We're more than just HR"
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
+weight: 4
 ---
 
 FuelHR aligns and accelerates the lifeblood of organizations - its workforce.​

@@ -1,9 +1,7 @@
 ---
 title: 'Outsourcing'
-date: 2018-02-10T11:52:18+07:00
-heroHeading: 'Outsourcing'
-heroSubHeading: 'Services that grow with your business'
-heroBackground: 'https://source.unsplash.com/eluzJSfkNCk/1600x400'
+background: ''
+weight: 1
 ---
 
 Are you in high-growth mode and seeking individuals or a team to quickly integrate and catalyze core functions of your business? Are you having difficulty recruiting for positions or did you have unplanned turnover? Do you have a specific project or business need to quickly surge and augment your current capacity? ​
