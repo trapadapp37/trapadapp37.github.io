@@ -40,27 +40,31 @@ theme = "hugo-hero-theme"
 [[menu.main]]
 	name = "Outsourcing"
 	url = "#home"
-    weight = 1
+  weight = 1
 
 [[menu.main]]
-    name = "Recruiting"
-    url = "#home2"
-    weight = 2
+  name = "Recruiting"
+  url = "#home2"
+  weight = 2
 
 [[menu.main]]
-    name = "Coaching"
-    url = "#home3"
-    weight = 3
+  name = "Coaching"
+  url = "#home3"
+  weight = 3
 
 [[menu.main]]
-    name = "Submit Resume"
-    url = "/submit-resume/"
-    weight = 4
+  name = "Submit Resume"
+  url = "/submit-resume/"
+  weight = 4
+  [menu.main.params]
+    class = "button"
 
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 5
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
+  [menu.main.params]
+    class = "button"
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
